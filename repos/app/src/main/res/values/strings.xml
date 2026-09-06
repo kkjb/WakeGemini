@@ -1,5 +1,7 @@
 <resources>
-    <string name="app_name">WakeGemini</string>
-    <string name="shortcut_short">语音指令</string>
-    <string name="shortcut_long">调起系统语音助手</string>
+    <string name="app_name">MagicKey</string>
+
+    <!-- Shortcuts 绑定的文本 -->
+    <string name="shortcut_short_label">一键设置并调起</string>
+    <string name="shortcut_long_label">设置 Google 服务并调起 VOICE_COMMAND</string>
 </resources>
