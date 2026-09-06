@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WakeGemini</string>
+    <string name="shortcut_short">语音指令</string>
+    <string name="shortcut_long">调起系统语音助手</string>
+</resources>
